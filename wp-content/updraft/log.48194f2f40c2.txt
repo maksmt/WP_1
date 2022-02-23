@@ -1,0 +1,39 @@
+0000.000 (0) Opened log file at time: Wed, 23 Feb 2022 07:02:08 +0000 on http://test
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.4 WP: 5.9 PHP: 7.4.27 (apache2handler, Windows NT DESKTOP-GB6QGS8 10.0 build 22000 (Windows 10) AMD64) MySQL: 5.7.33 (max packet size=268435456) WPLANG: en_GB Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 1536M (used: 58.4M | 8M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 177051.8 MB
+0000.012 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.015 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.031 (0) Set semaphore last lock (fd) time to 2022-02-23 07:02:08
+0000.033 (0) Semaphore lock (fd) complete
+0000.045 (0) Backup run: resumption=0, nonce=48194f2f40c2, file_nonce=48194f2f40c2 begun at=1645599728 (0s ago), job type=backup
+0000.050 (0) Scheduling a resumption (1) after 300 seconds (1645600028) in case this run gets aborted
+0000.070 (0) Checking if we have a zip executable available
+0000.076 (0) Creation of backups of directories: beginning
+0000.084 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.610 (0) Total entities for the zip file: 1001 directories, 4883 files (0 skipped as non-modified), 94.3 MB
+0001.628 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.644 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.660 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.676 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.691 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.708 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.711 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4883 files batched, 609 (609) added so far); re-opening (prior size: 0 KB)
+0009.889 (0) A useful amount of data was added after this amount of zip processing: 9.8 s (normalised: 9.8 s, rate: 2611.2 KB/s)
+0009.914 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 700 files added (on-disk size: 7179.1 KB)
+0009.934 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 800 files added (on-disk size: 7179.1 KB)
+0009.951 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 900 files added (on-disk size: 7179.1 KB)
+0009.967 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1000 files added (on-disk size: 7179.1 KB)
+0009.984 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1100 files added (on-disk size: 7179.1 KB)
+0009.999 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1200 files added (on-disk size: 7179.1 KB)
+0010.015 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1300 files added (on-disk size: 7179.1 KB)
+0010.030 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1400 files added (on-disk size: 7179.1 KB)
+0010.045 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1500 files added (on-disk size: 7179.1 KB)
+0010.061 (0) Zip: backup_2022-02-23-0902_Practice_WordPress_48194f2f40c2-plugins.zip.tmp: 1600 files added (on-disk size: 7179.1 KB)
+0010.065 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.6 MB, 4883 files batched, 1001 (1610) added so far); re-opening (prior size: 7179.1 KB)
+0036.032 (0) User request for abort: backup job will be immediately halted
+0036.038 (0) Decremented the semaphore (fd) by 1
+0036.044 (0) Semaphore (fd) unlocked
+0036.046 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0036.054 (0) No email will/can be sent - the user has not configured an email address.
+0036.057 (0) The backup was aborted by the user

@@ -1,0 +1,1562 @@
+# Translation of Themes - Neve in English (UK)
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-06 23:48:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve is a super fast, easily customisable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, ecommerce shops (WooCommerce storefront), as well as personal portfolio sites and most types of projects. A fully AMP optimised and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extensible, it has a highly SEO optimised code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:78
+msgid "Dark"
+msgstr "Dark"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:74
+msgid "Light"
+msgstr "Light"
+
+#: inc/customizer/options/layout_sidebar.php:286
+msgid "edit"
+msgstr "edit"
+
+#. translators: %s is edit page link
+#: inc/customizer/options/layout_sidebar.php:282
+msgid "Note: It seems that the shop page has an individual sidebar layout already set. To be able to control the layout from here, %s your page and set the sidebar to \"Customizer Setting\"."
+msgstr "Note: It seems that the shop page has an individual sidebar layout already set. To be able to control the layout from here, %s your page and set the sidebar to \"Customiser Setting\"."
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265
+msgid "You are customizing the %s Header"
+msgstr "You are customising the %s Header"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:150
+msgid "Remove Image"
+msgstr "Remove Image"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:149
+msgid "Remove Fallback Image"
+msgstr "Remove Fallback Image"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:118
+msgid "Fallback Image"
+msgstr "Fallback Image"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:108
+msgid "Use Featured Image"
+msgstr "Use Featured Image"
+
+#: inc/customizer/controls/react/src/dynamic-fields/dynamic-field-inserter.js:51
+msgid "Insert Dynamic Tag"
+msgstr "Insert Dynamic Tag"
+
+#: header-footer-grid/Core/Magic_Tags.php:401
+msgid "Checkout URL"
+msgstr "Checkout URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:397
+msgid "Cart URL"
+msgstr "Basket URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:393
+msgid "Product Title"
+msgstr "Product Title"
+
+#: header-footer-grid/Core/Magic_Tags.php:389
+msgid "Product Price"
+msgstr "Product Price"
+
+#: header-footer-grid/Core/Magic_Tags.php:386
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: header-footer-grid/Core/Magic_Tags.php:377
+msgid "Current Year"
+msgstr "Current Year"
+
+#: header-footer-grid/Core/Magic_Tags.php:373
+msgid "Home URL"
+msgstr "Home URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:369
+msgid "Site Tagline"
+msgstr "Site Tagline"
+
+#: header-footer-grid/Core/Magic_Tags.php:365
+msgid "Site Title"
+msgstr "Site Title"
+
+#: header-footer-grid/Core/Magic_Tags.php:362
+msgid "Global"
+msgstr "Global"
+
+#: header-footer-grid/Core/Magic_Tags.php:356
+msgid "Author URL"
+msgstr "Author URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:352
+msgid "Author Name"
+msgstr "Author Name"
+
+#: header-footer-grid/Core/Magic_Tags.php:348
+msgid "Author Bio"
+msgstr "Author Bio"
+
+#: header-footer-grid/Core/Magic_Tags.php:339
+msgid "Archive URL"
+msgstr "Archive URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:335
+msgid "Archive Title"
+msgstr "Archive Title"
+
+#: header-footer-grid/Core/Magic_Tags.php:331
+msgid "Archive Description"
+msgstr "Archive Description"
+
+#: header-footer-grid/Core/Magic_Tags.php:328
+msgid "Archive"
+msgstr "Archive"
+
+#: header-footer-grid/Core/Magic_Tags.php:322
+msgid "Current Single URL"
+msgstr "Current Single URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:318
+msgid "Current Single Excerpt"
+msgstr "Current Single Excerpt"
+
+#: header-footer-grid/Core/Magic_Tags.php:314
+msgid "Current Single Title"
+msgstr "Current Single Title"
+
+#: header-footer-grid/Core/Magic_Tags.php:311
+msgid "Single"
+msgstr "Single"
+
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:61
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:169
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:44
+msgid "Logo on Top"
+msgstr "Logo on Top"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:40
+msgid "Title & Tagline - Logo"
+msgstr "Title & Tagline - Logo"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:36
+msgid "Logo - Title & Tagline"
+msgstr "Logo - Title & Tagline"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:32
+msgid "Logo Only"
+msgstr "Logo Only"
+
+#: header-footer-grid/Core/Components/Logo.php:108
+msgid "Display"
+msgstr "Display"
+
+#: header-footer-grid/Core/Components/CartIcon.php:94
+#: header-footer-grid/Core/Components/SearchResponsive.php:102
+msgid "Icon Size"
+msgstr "Icon Size"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:168
+msgid "Outline"
+msgstr "Outline"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:163
+msgid "Filled"
+msgstr "Filled"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:109
+msgid "Color settings"
+msgstr "Colour settings"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:85
+msgid "Hover"
+msgstr "Hover"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:81
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:89
+msgid "Text and Border"
+msgstr "Text and Border"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:79
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:87
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:57
+msgid "Background"
+msgstr "Background"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:77
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:55
+msgid "Width"
+msgstr "Width"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:39
+msgid "Radius"
+msgstr "Radius"
+
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:35
+msgid "Border"
+msgstr "Border"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:132
+msgid "Add Image"
+msgstr "Add Image"
+
+#: inc/customizer/options/buttons.php:93
+msgid "Button Appearance"
+msgstr "Button Appearance"
+
+#: header-footer-grid/Core/Components/Button.php:140
+#: header-footer-grid/Core/Components/MenuIcon.php:111
+msgid "Appearance"
+msgstr "Appearance"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:91
+msgid "Menu label"
+msgstr "Menu label"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:144
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "Arbitrary HTML code. It supports also shortcodes."
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:436
+msgid "Alignment"
+msgstr "Alignment"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Hide"
+msgstr "Hide"
+
+#: header-footer-grid/templates/rows.php:76
+msgid "Show"
+msgstr "Show"
+
+#: header-footer-grid/templates/rows.php:73
+#: header-footer-grid/Core/Builder/Header.php:142
+msgid "Mobile menu content"
+msgstr "Mobile menu content"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:44
+msgid "Reset Value"
+msgstr "Reset Value"
+
+#: inc/customizer/controls/react/src/common/Responsive.js:37
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/customizer/controls/react/src/common/Responsive.js:33
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:186
+msgid "Loading..."
+msgstr "Loading…"
+
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:145
+msgid "No results."
+msgstr "No results."
+
+#: inc/customizer/options/layout_blog.php:255
+msgid "Thumbnail Shadow"
+msgstr "Thumbnail Shadow"
+
+#: inc/customizer/options/typography.php:145
+msgid "Body"
+msgstr "Body"
+
+#: header-footer-grid/Core/Customizer.php:315
+msgid "Search Components"
+msgstr "Search Components"
+
+#: header-footer-grid/Core/Customizer/Instructions_Section.php:85
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: header-footer-grid/Core/Components/Logo.php:69
+msgid "Display your company logo here or simply use words to describe your business."
+msgstr "Display your company logo here or simply use words to describe your business."
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:446
+msgid "Center"
+msgstr "Centre"
+
+#: header-footer-grid/Core/Builder/Footer.php:67
+msgid "Change Footer Color"
+msgstr "Change Footer Colour"
+
+#: header-footer-grid/Core/Builder/Footer.php:63
+msgid "Change Copyright"
+msgstr "Change Copyright"
+
+#: header-footer-grid/Core/Builder/Header.php:72
+msgid "Change Menu"
+msgstr "Change Menu"
+
+#: header-footer-grid/Core/Builder/Header.php:68
+msgid "Change Header Color"
+msgstr "Change Header Colour"
+
+#: header-footer-grid/Core/Builder/Header.php:64
+msgid "Change Logo"
+msgstr "Change Logo"
+
+#. translators: %s builder type
+#: header-footer-grid/Core/Builder/Header.php:58
+#: header-footer-grid/Core/Builder/Footer.php:57
+msgid "Welcome to the %1$s builder! Click the “+” button to add a new component or follow the Quick Links."
+msgstr "Welcome to the %1$s builder! Click the “+” button to add a new component or follow the Quick Links."
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "Oops! Something went wrong."
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "Oops! It looks like you&#8217;re offline."
+
+#: inc/core/admin.php:275
+msgid "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+msgstr "Become a contributor by opting in to our anonymous data tracking. We guarantee no sensitive data is collected."
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:122
+msgid "Select from the Media Library or upload a new image"
+msgstr "Select from the Media Library or upload a new image"
+
+#: inc/core/admin.php:490
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit(Adobe) Fonts"
+
+#: inc/core/admin.php:485
+msgid "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customizations."
+msgstr "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customisations."
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:46
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:119
+msgid "Image"
+msgstr "Image"
+
+#: inc/core/admin.php:491
+msgid "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+msgstr "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+
+#: inc/core/admin.php:276
+msgid "Allow anonymous tracking"
+msgstr "Allow anonymous tracking"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:165
+msgid "Fixed Background"
+msgstr "Fixed Background"
+
+#: inc/core/admin.php:274
+msgid "Contributing"
+msgstr "Contributing"
+
+#: inc/core/admin.php:63 inc/core/admin.php:277
+msgid "What do we track?"
+msgstr "What do we track?"
+
+#: inc/customizer/controls/react/src/common/Responsive.js:29
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:43
+msgid "Reset all Values"
+msgstr "Reset all Values"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:29
+msgid "Link Values"
+msgstr "Link Values"
+
+#: inc/customizer/controls/react/src/common/Sizing.js:28
+msgid "Unlink Values"
+msgstr "Unlink Values"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:188
+msgid "Overlay Opacity"
+msgstr "Overlay Opacity"
+
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:172
+msgid "Overlay Color"
+msgstr "Overlay Colour"
+
+#: inc/core/admin.php:484
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Booster"
+
+#: inc/core/admin.php:461
+msgid "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+msgstr "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+
+#: inc/core/admin.php:455
+msgid "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+msgstr "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+
+#: inc/core/admin.php:454
+msgid "Page Header Builder"
+msgstr "Page Header Builder"
+
+#: inc/core/admin.php:279
+msgid "Option updated."
+msgstr "Option updated."
+
+#: inc/core/admin.php:278
+msgid "Could not update option. Please try again."
+msgstr "Could not update option. Please try again."
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Header.php:42
+#: header-footer-grid/Core/Builder/Footer.php:41
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:364
+msgid "Row Background"
+msgstr "Row Background"
+
+#: inc/views/partials/post_meta.php:85
+msgid "by"
+msgstr "by"
+
+#: inc/customizer/options/layout_blog.php:464
+msgid "Show Author Avatar"
+msgstr "Show Author Avatar"
+
+#: inc/customizer/options/layout_blog.php:445
+msgid "Author Avatar"
+msgstr "Author Avatar"
+
+#: inc/customizer/controls/font_selector.php:69
+msgid "Adobe Fonts"
+msgstr "Adobe Fonts"
+
+#: inc/core/admin.php:503
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "Simple but effective module to help you navigate back to the top of the really long pages."
+
+#: inc/core/admin.php:502
+msgid "Scroll To Top"
+msgstr "Scroll To Top"
+
+#: inc/core/admin.php:497
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+
+#: inc/core/admin.php:496
+msgid "White Label"
+msgstr "White Label"
+
+#: inc/core/admin.php:479
+msgid "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+msgstr "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+
+#: inc/core/admin.php:479
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+
+#: inc/core/admin.php:467
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+
+#: inc/core/admin.php:467
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+
+#: inc/core/admin.php:449
+msgid "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+msgstr "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+
+#: inc/core/admin.php:443
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+
+#: inc/core/admin.php:442
+msgid "Page Builder Compatibility"
+msgstr "Page Builder Compatibility"
+
+#: inc/core/admin.php:437
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customiser. More advanced options are available in PRO."
+
+#: inc/core/admin.php:436
+msgid "Header/Footer builder"
+msgstr "Header/Footer builder"
+
+#. translators: s - theme name
+#: inc/core/admin.php:432
+msgid "Get %s now!"
+msgstr "Get %s now!"
+
+#: inc/core/admin.php:218
+msgid "Free vs PRO"
+msgstr "Free vs PRO"
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/core/admin.php:473 inc/customizer/options/upsells.php:100
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Leverage the true flexibility of Elementor with powerful Add-ons and templates that you can import with just one click."
+
+#: inc/customizer/options/upsells.php:99
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+
+#: inc/customizer/options/upsells.php:46 inc/customizer/options/upsells.php:98
+msgid "Add new awesome header components, sticky and transparent menu, socials, and many more."
+msgstr "Add new awesome header components, sticky and transparent menu, socials, and many more."
+
+#: inc/core/admin.php:472 inc/customizer/options/upsells.php:95
+msgid "Elementor Booster"
+msgstr "Elementor Booster"
+
+#: inc/customizer/options/upsells.php:94
+msgid "Scroll to Top module"
+msgstr "Scroll to Top module"
+
+#: inc/customizer/options/upsells.php:93
+msgid "White Label module"
+msgstr "White Label module"
+
+#: inc/core/admin.php:460 inc/customizer/options/upsells.php:92
+msgid "Custom Layouts"
+msgstr "Custom Layouts"
+
+#: inc/core/admin.php:478 inc/customizer/options/upsells.php:91
+msgid "WooCommerce Booster"
+msgstr "WooCommerce Booster"
+
+#: inc/core/admin.php:466 inc/customizer/options/upsells.php:90
+msgid "Blog Booster"
+msgstr "Blog Booster"
+
+#: inc/core/admin.php:448 inc/customizer/options/upsells.php:89
+msgid "Header Booster"
+msgstr "Header Booster"
+
+#: inc/customizer/options/upsells.php:69
+msgid "View PRO Features"
+msgstr "View PRO Features"
+
+#: inc/customizer/options/buttons.php:150
+msgid "Border radius"
+msgstr "Border radius"
+
+#: header-footer-grid/Core/Components/CartIcon.php:129
+#: header-footer-grid/Core/Components/SearchResponsive.php:139
+msgid "Hover Color"
+msgstr "Hover Colour"
+
+#: header-footer-grid/Core/Components/CartIcon.php:112
+#: header-footer-grid/Core/Components/SearchResponsive.php:120
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:45
+msgid "Color"
+msgstr "Colour"
+
+#: inc/customizer/options/buttons.php:62
+msgid "Secondary"
+msgstr "Secondary"
+
+#: inc/customizer/options/buttons.php:58
+msgid "Primary"
+msgstr "Primary"
+
+#: inc/customizer/options/buttons.php:42
+msgid "Buttons"
+msgstr "Buttons"
+
+#: header-footer-grid/Core/Settings/Manager.php:184
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:193
+msgid "Style"
+msgstr "Style"
+
+#: header-footer-grid/Core/Components/SecondNav.php:118
+msgid "Select Menu"
+msgstr "Select Menu"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:495
+msgid "Margin"
+msgstr "Margin"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:442
+msgid "Left"
+msgstr "Left"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:450
+msgid "Right"
+msgstr "Right"
+
+#: inc/customizer/options/buttons.php:130
+#: header-footer-grid/Core/Components/Abstract_Component.php:469
+msgid "Padding"
+msgstr "Padding"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:285
+msgid "Toggle Dropdown"
+msgstr "Toggle Dropdown"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:284
+msgid "Slide from Left"
+msgstr "Slide from Left"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "All"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "Title"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Exclusive Products"
+
+#: inc/compatibility/lifter.php:310
+msgid "Catalog Sidebar"
+msgstr "Catalogue Sidebar"
+
+#. translators: %s: Name of current theme
+#: inc/core/admin.php:235
+msgid "Take the new WordPress editor to the next level by using Otter's blocks that are specially designed for %s."
+msgstr "Take the new WordPress editor to the next level by using Otter's blocks that are specially designed for %s."
+
+#: header-footer-grid/Core/Builder/Footer.php:124
+msgid "Footer Bottom"
+msgstr "Footer Bottom"
+
+#: header-footer-grid/Core/Builder/Footer.php:120
+msgid "Footer Top"
+msgstr "Footer Top"
+
+#: header-footer-grid/Core/Builder/Header.php:138
+msgid "Header Bottom"
+msgstr "Header Bottom"
+
+#: header-footer-grid/Core/Builder/Header.php:134
+msgid "Header Main"
+msgstr "Header Main"
+
+#: header-footer-grid/Core/Builder/Header.php:130
+msgid "Header Top"
+msgstr "Header Top"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:187
+msgid "Letter Spacing"
+msgstr "Letter Spacing"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:81
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:86
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:76
+msgid "Capitalize"
+msgstr "Capitalise"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:99
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:111
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: header-footer-grid/Core/Components/Nav.php:175
+msgid "Last Menu Item"
+msgstr "Last Menu Item"
+
+#: header-footer-grid/Core/Components/Nav.php:123
+msgid "Active Item Color"
+msgstr "Active Item Colour"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:37
+msgid "Search Icon"
+msgstr "Search Icon"
+
+#: header-footer-grid/Core/Components/Search.php:58
+#: header-footer-grid/Core/Components/SearchResponsive.php:87
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: header-footer-grid/Core/Components/Search.php:57
+#: header-footer-grid/Core/Components/Search.php:87
+#: header-footer-grid/Core/Components/Search.php:91
+#: header-footer-grid/Core/Components/SearchResponsive.php:86
+#: header-footer-grid/Core/Components/SearchResponsive.php:202
+#: header-footer-grid/Core/Components/SearchResponsive.php:206
+msgid "Search for..."
+msgstr "Search for..."
+
+#: header-footer-grid/Core/Components/Search.php:35
+msgid "Search Form"
+msgstr "Search Form"
+
+#: header-footer-grid/Core/Components/NavFooter.php:96
+#: header-footer-grid/Core/Components/SecondNav.php:98
+#: header-footer-grid/Core/Components/Nav.php:137
+msgid "Items Hover Color"
+msgstr "Items Hover Colour"
+
+#: header-footer-grid/Core/Components/NavFooter.php:82
+#: header-footer-grid/Core/Components/SecondNav.php:83
+#: header-footer-grid/Core/Components/Nav.php:109
+msgid "Items Color"
+msgstr "Items Colour"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:65
+msgid "Top Border"
+msgstr "Top Border"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:61
+msgid "Bottom Border"
+msgstr "Bottom Border"
+
+#: inc/customizer/controls/react/src/radio-buttons/RadioButtonsComponent.js:53
+msgid "Plain"
+msgstr "Plain"
+
+#: inc/core/front_end.php:78 inc/customizer/options/top_bar.php:189
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:37
+#: header-footer-grid/Core/Components/SecondNav.php:112
+msgid "Secondary Menu"
+msgstr "Secondary Menu"
+
+#: header-footer-grid/Core/Components/Copyright.php:34
+#: header-footer-grid/Core/Components/Copyright.php:68
+msgid "Copyright"
+msgstr "Copyright"
+
+#: header-footer-grid/Core/Components/CartIcon.php:37
+msgid "Cart Icon"
+msgstr "Basket Icon"
+
+#: header-footer-grid/Core/Components/Button.php:99
+msgid "Link"
+msgstr "Link"
+
+#: header-footer-grid/Core/Components/Button.php:76
+#: header-footer-grid/Core/Components/Button.php:113
+msgid "Button"
+msgstr "Button"
+
+#: header-footer-grid/Core/Components/Logo.php:128
+msgid "Show Site Tagline"
+msgstr "Show Site Tagline"
+
+#: header-footer-grid/Core/Components/Logo.php:146
+msgid "Show Site Title"
+msgstr "Show Site Title"
+
+#: header-footer-grid/Core/Components/Logo.php:164
+msgid "Logo max width (px)"
+msgstr "Logo max width (px)"
+
+#: header-footer-grid/Core/Components/Logo.php:68
+msgid "Logo & Site Identity"
+msgstr "Logo & Site Identity"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:68
+msgid "Menu Icon"
+msgstr "Menu Icon"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:143
+msgid "HTML"
+msgstr "HTML"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:387
+#: header-footer-grid/Core/Components/NavFooter.php:64
+#: header-footer-grid/Core/Components/SecondNav.php:64
+#: header-footer-grid/Core/Components/Nav.php:91
+msgid "Skin Mode"
+msgstr "Skin Mode"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:324
+msgid "Row height (px)"
+msgstr "Row height (px)"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:88
+msgid "%s Community"
+msgstr "%s Community"
+
+#: inc/views/pluggable/pagination.php:162
+msgid "next"
+msgstr "next"
+
+#: inc/views/pluggable/pagination.php:157
+msgid "previous"
+msgstr "previous"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:113
+msgid "%s Settings"
+msgstr "%s Settings"
+
+#: inc/core/admin.php:763
+msgid "Return to your dashboard"
+msgstr "Return to your dashboard"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:750
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s is now installed and ready to use. We've assembled some links to get you started."
+
+#: inc/core/admin.php:747
+msgid "Congratulations!"
+msgstr "Congratulations!"
+
+#: inc/core/admin.php:769
+msgid "or go to the theme settings"
+msgstr "or go to the theme settings"
+
+#: inc/core/admin.php:758
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Try one of our ready to use Starter Sites"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:195
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comment"
+msgstr[1] "%s Comments"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "upgrading PHP to the latest version"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Page Builder Full Width (Neve)"
+
+#: inc/customizer/options/upsells.php:45 inc/customizer/options/upsells.php:103
+msgid "Get the PRO version!"
+msgstr "Get the PRO version!"
+
+#: inc/core/admin.php:781
+msgid "Sites Library"
+msgstr "Sites Library"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "Get started here"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "Ready to publish your first post? %s."
+
+#: inc/views/template_parts.php:240
+msgid "Read More"
+msgstr "Read More"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:209
+msgid "Tags"
+msgstr "Tags"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "Comment awaiting moderation."
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "Reply"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "Next"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "Comments Navigation"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#. translators: search result
+#: inc/views/page_header.php:73
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:37
+#: header-footer-grid/templates/components/component-menu-icon.php:48
+msgid "Toggle Navigation"
+msgstr "Toggle Navigation"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:27
+#: header-footer-grid/templates/components/component-menu-icon.php:35
+msgid "Navigation Menu"
+msgstr "Navigation Menu"
+
+#: inc/views/layouts/layout_sidebar.php:148 inc/views/header.php:113
+#: header-footer-grid/templates/components/component-search-responsive.php:41
+#: header-footer-grid/Core/Customizer.php:273
+msgid "Close"
+msgstr "Close"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:166
+msgid "Line Height"
+msgstr "Line Height"
+
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:137
+msgid "Font Size"
+msgstr "Font Size"
+
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:157
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/customizer/options/typography.php:110
+msgid "Headings"
+msgstr "Headings"
+
+#: inc/customizer/options/typography.php:106
+#: header-footer-grid/Core/Settings/Manager.php:176
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/options/top_bar.php:67
+msgid "Enable Top Bar"
+msgstr "Enable Top Bar"
+
+#: inc/customizer/options/top_bar.php:48
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: inc/customizer/options/main.php:57
+#: header-footer-grid/Core/Components/Abstract_Component.php:721
+msgid "Typography"
+msgstr "Typography"
+
+#: header-footer-grid/Core/Builder/Header.php:35
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:496
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Elements Order"
+
+#: inc/customizer/options/layout_sidebar.php:322
+msgid "Content Width (%)"
+msgstr "Content Width (%)"
+
+#: inc/customizer/options/layout_sidebar.php:226
+msgid "Sidebar Layout"
+msgstr "Sidebar Layout"
+
+#: inc/customizer/options/layout_sidebar.php:167
+msgid "Others"
+msgstr "Others"
+
+#: inc/customizer/options/layout_single_product.php:52
+#: inc/customizer/options/layout_sidebar.php:163
+msgid "Single Product"
+msgstr "Single Product"
+
+#: inc/customizer/options/layout_sidebar.php:162
+msgid "Shop / Archive"
+msgstr "Shop / Archive"
+
+#: inc/customizer/options/layout_sidebar.php:155
+#: inc/customizer/options/layout_single_post.php:42
+msgid "Single Post"
+msgstr "Single Post"
+
+#: inc/customizer/options/layout_sidebar.php:105
+msgid "Enable Advanced Options"
+msgstr "Enable Advanced Options"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Sitewide Content Width (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Sitewide Sidebar Layout"
+
+#: header-footer-grid/Core/Components/Nav.php:149
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:123
+msgid "Search"
+msgstr "Search"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:584
+msgid "Section Content"
+msgstr "Section Content"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:62
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Powered by %2$s"
+
+#: header-footer-grid/Core/Components/Button.php:114
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:80
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:88
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:71
+msgid "None"
+msgstr "None"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/customizer/options/top_bar.php:123
+msgid "Content"
+msgstr "Content"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:74
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/options/layout_container.php:120
+msgid "Single Product Container Style"
+msgstr "Single Product Container Style"
+
+#: inc/customizer/options/layout_container.php:116
+msgid "Shop / Archive Container Style"
+msgstr "Shop / Archive Container Style"
+
+#: inc/customizer/options/layout_container.php:106
+msgid "Single Post Container Style"
+msgstr "Single Post Container Style"
+
+#: inc/customizer/options/layout_container.php:102
+msgid "Blog / Archive Container Style"
+msgstr "Blog / Archive Container Style"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Default Container Style"
+msgstr "Default Container Style"
+
+#: inc/customizer/options/layout_container.php:62
+msgid "Container width (px)"
+msgstr "Container width (px)"
+
+#: inc/customizer/options/layout_blog.php:299
+msgid "Meta Order"
+msgstr "Meta Order"
+
+#: inc/customizer/options/layout_blog.php:287
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/views/partials/post_meta.php:154
+msgid "Comments"
+msgstr "Comments"
+
+#: inc/customizer/options/layout_blog.php:286
+#: inc/views/partials/post_meta.php:153
+msgid "Date"
+msgstr "Date"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:285
+#: inc/views/partials/post_meta.php:152
+msgid "Category"
+msgstr "Category"
+
+#: inc/customizer/options/layout_blog.php:284
+#: inc/views/partials/post_meta.php:151
+#: header-footer-grid/Core/Magic_Tags.php:345
+msgid "Author"
+msgstr "Author"
+
+#: inc/customizer/options/layout_blog.php:236
+msgid "Post Content Order"
+msgstr "Post Content Order"
+
+#: inc/customizer/options/layout_blog.php:225
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#: inc/customizer/options/layout_blog.php:224
+#: inc/customizer/options/layout_single_post.php:67
+msgid "Title & Meta"
+msgstr "Title & Meta"
+
+#: inc/customizer/options/layout_blog.php:223
+#: inc/customizer/options/layout_single_post.php:68
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/customizer/options/layout_blog.php:173
+msgid "Infinite Scroll"
+msgstr "Infinite Scroll"
+
+#: inc/customizer/options/layout_blog.php:172
+msgid "Number"
+msgstr "Number"
+
+#: inc/customizer/options/layout_blog.php:167
+msgid "Post Pagination"
+msgstr "Post Pagination"
+
+#: inc/customizer/options/layout_blog.php:139
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: inc/customizer/options/layout_blog.php:119
+msgid "Enable Masonry"
+msgstr "Enable Masonry"
+
+#: inc/customizer/options/layout_blog.php:100
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: inc/customizer/options/layout_blog.php:99
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: inc/customizer/options/layout_blog.php:98
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: inc/customizer/options/layout_blog.php:97
+msgid "1 Column"
+msgstr "1 Column"
+
+#: inc/customizer/options/layout_blog.php:95
+msgid "Grid Layout"
+msgstr "Grid Layout"
+
+#: inc/customizer/options/main.php:53 inc/customizer/options/layout_blog.php:66
+#: inc/customizer/options/top_bar.php:90
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:279
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:302
+#: header-footer-grid/Core/Settings/Manager.php:180
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/options/layout_blog.php:66
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/options/layout_blog.php:47
+#: inc/customizer/options/layout_sidebar.php:154
+msgid "Blog / Archive"
+msgstr "Blog / Archive"
+
+#: inc/customizer/options/colors_background.php:42
+msgid "Colors & Background"
+msgstr "Colours & Background"
+
+#: inc/customizer/controls/font_selector.php:71
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer/controls/font_selector.php:67
+msgid "Standard Fonts"
+msgstr "Standard Fonts"
+
+#. translators: %s is the header name
+#: inc/customizer/controls/font_selector.php:65
+#: header-footer-grid/Core/Customizer.php:265
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:62
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:170
+msgid "Default"
+msgstr "Default"
+
+#: inc/customizer/controls/font_selector.php:62
+msgctxt "label"
+msgid "Search"
+msgstr "Search"
+
+#: inc/core/front_end.php:1806
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+msgid "Footer Four"
+msgstr "Footer Four"
+
+#: inc/core/front_end.php:1805
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+msgid "Footer Three"
+msgstr "Footer Three"
+
+#: inc/core/front_end.php:1804
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+msgid "Footer Two"
+msgstr "Footer Two"
+
+#: inc/core/front_end.php:1803
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+msgid "Footer One"
+msgstr "Footer One"
+
+#: inc/core/front_end.php:1797
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: inc/core/front_end.php:1492 inc/customizer/options/colors_background.php:66
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: inc/core/front_end.php:1488 inc/customizer/options/colors_background.php:61
+msgid "Link Hover Color"
+msgstr "Link Hover Colour"
+
+#: inc/core/front_end.php:1484 inc/customizer/options/colors_background.php:56
+msgid "Link Color"
+msgstr "Link Colour"
+
+#: inc/core/front_end.php:1480
+msgid "Button Color"
+msgstr "Button Colour"
+
+#: inc/core/front_end.php:1471
+msgid "White"
+msgstr "White"
+
+#: inc/core/front_end.php:1462
+msgid "Black"
+msgstr "Black"
+
+#. translators: %s - theme name
+#: inc/core/front_end.php:1400
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favourite, and we will take care of everything else."
+
+#: inc/core/front_end.php:1398
+msgid "Ready to use pre-built websites with 1-click installation"
+msgstr "Ready to use pre-built websites with 1-click installation"
+
+#: inc/core/front_end.php:1381 inc/core/front_end.php:1391
+msgid "Hi! We've noticed you were using Zelle before. To make your transition easier, we can help you keep the same beautiful homepage you had before, by converting it into an Elementor template. This option will also import your homepage content."
+msgstr "Hi! We've noticed you were using Zelle before. To make your transition easier, we can help you keep the same beautiful home page you had before, by converting it into an Elementor template. This option will also import your home page content. "
+
+#: inc/core/front_end.php:1380 inc/core/front_end.php:1390
+msgid "Want to keep using Zelle's homepage?"
+msgstr "Want to keep using Zelle's home page?"
+
+#: inc/core/front_end.php:77
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:37
+#: header-footer-grid/Core/Components/NavFooter.php:113
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: inc/core/front_end.php:76
+#: header-footer-grid/templates/components/component-nav.php:25
+#: header-footer-grid/Core/Components/Nav.php:39
+#: header-footer-grid/Core/Components/Nav.php:193
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: inc/core/admin.php:637 inc/customizer/options/layout_sidebar.php:43
+msgid "Content / Sidebar"
+msgstr "Content / Sidebar"
+
+#: inc/core/admin.php:632
+msgid "Footer Options"
+msgstr "Footer Options"
+
+#: inc/core/admin.php:627
+msgid "Blog Layouts"
+msgstr "Blog Layouts"
+
+#: inc/core/admin.php:622
+msgid "Header Options"
+msgstr "Header Options"
+
+#: inc/core/admin.php:617
+msgid "Layout Options"
+msgstr "Layout Options"
+
+#: inc/core/admin.php:612
+msgid "Customize Fonts"
+msgstr "Customise Fonts"
+
+#: inc/core/admin.php:607
+msgid "Set Colors"
+msgstr "Set Colours"
+
+#: inc/core/admin.php:602
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: inc/core/admin.php:201
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "In the documentation below, you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+
+#: inc/core/admin.php:199
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Build a landing page with a drag-and-drop content builder"
+
+#: inc/core/admin.php:191
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below, where you will find the most common issues causing this and possible solutions for each of the issues."
+
+#: inc/core/admin.php:189
+msgid "Speed up your site"
+msgstr "Speed up your site"
+
+#: inc/core/admin.php:183 inc/core/admin.php:193 inc/core/admin.php:203
+msgid "View how to do this"
+msgstr "View how to do this"
+
+#: inc/core/admin.php:181
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+
+#: inc/core/admin.php:179
+msgid "Create a child theme"
+msgstr "Create a child theme"
+
+#: inc/core/admin.php:170
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Want to get the gist on the latest theme changes? Just consult our change log below to get a taste of the recent fixes and features implemented."
+
+#: inc/core/admin.php:169 inc/core/admin.php:172 inc/core/admin.php:212
+msgid "Changelog"
+msgstr "Change Log"
+
+#: inc/core/admin.php:161 inc/core/admin.php:794
+#: header-footer-grid/Core/Builder/Header.php:48
+#: header-footer-grid/Core/Builder/Footer.php:47
+msgid "Read full documentation"
+msgstr "Read full documentation"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:159 inc/core/admin.php:792
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Need more details? Please check our full documentation for detailed information on how to use %s."
+
+#. translators: 1 - theme name, 2 - theme name
+#: inc/core/admin.php:148
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+
+#: inc/core/admin.php:146 inc/core/admin.php:150
+msgid "Contact Support"
+msgstr "Contact Support"
+
+#: inc/core/admin.php:142 inc/core/admin.php:157 inc/core/admin.php:790
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/core/admin.php:125
+msgid "Useful Plugins"
+msgstr "Useful Plugins"
+
+#: inc/core/admin.php:118
+msgid "Links to Customizer Settings"
+msgstr "Links to Customiser Settings"
+
+#: inc/core/admin.php:112
+msgid "See demos"
+msgstr "See demos"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:110 inc/core/admin.php:783
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+
+#: inc/core/admin.php:108 inc/core/admin.php:229
+msgid "Recommended actions"
+msgstr "Recommended actions"
+
+#: inc/core/admin.php:105
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:98
+msgid "Submit a review"
+msgstr "Submit a review"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:97
+msgid "Are you are enjoying %s? We would love to hear your feedback."
+msgstr "Are you are enjoying %s? We would love to hear your feedback."
+
+#: inc/core/admin.php:95
+msgid "Leave us a review"
+msgstr "Leave us a review"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:91
+msgid "Join our Facebook Group"
+msgstr "Join our Facebook Group"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:90
+msgid "Join the community of %s users. Get connected, share opinions, ask questions and help each other!"
+msgstr "Join the community of %s users. Get connected, share opinions, ask questions and help each other!"
+
+#: inc/views/header.php:146
+#: header-footer-grid/templates/components/component-cart-icon.php:17
+#: header-footer-grid/Core/Components/Nav.php:154
+msgid "Cart"
+msgstr "Basket"
+
+#: inc/compatibility/woocommerce.php:367
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/admin/plugin_install/main.php:176
+msgid "Activating "
+msgstr "Activating "
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolio"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "Install and activate"
+
+#: inc/core/front_end.php:1796 inc/admin/metabox/main.php:56
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/customizer/options/layout_container.php:43 inc/admin/metabox/main.php:41
+msgid "Container"
+msgstr "Container"
+
+#: inc/customizer/options/layout_container.php:142
+#: inc/admin/metabox/main.php:39
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:307
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/customizer/options/layout_container.php:141
+#: inc/admin/metabox/main.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:307
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+msgid "Contained"
+msgstr "Contained"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "Customiser Setting"
+
+#: inc/admin/metabox/main.php:88
+msgid "Disable Footer"
+msgstr "Disable Footer"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "Disable Featured Image"
+
+#: inc/admin/metabox/main.php:76
+msgid "Disable Title"
+msgstr "Disable Title"
+
+#: inc/admin/metabox/main.php:71
+msgid "Disable Header"
+msgstr "Disable Header"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "Components"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "Enable Individual Content Width"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "Content Width"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"

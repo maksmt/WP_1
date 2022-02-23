@@ -1,0 +1,14 @@
+[18/Feb/2022:13:31:35] (ℹ️): WordPress Instance Info:
+[18/Feb/2022:13:31:35] (ℹ️): Home URL : http://test
+[18/Feb/2022:13:31:35] (ℹ️): Site URL : http://test
+[18/Feb/2022:13:31:35] (ℹ️): WordPress Version : 5.8.3
+[18/Feb/2022:13:31:35] (ℹ️): Onboarding Version : 1.8.2
+[18/Feb/2022:13:31:35] (ℹ️): Multisite : No
+[18/Feb/2022:13:31:35] (ℹ️): Server Info : Apache
+[18/Feb/2022:13:31:35] (ℹ️): PHP Version : 7.4.27
+[18/Feb/2022:13:31:35] (ℹ️): HTTPS : No
+[18/Feb/2022:13:31:35] (ℹ️): PHP Max Execution Time : 60
+[18/Feb/2022:13:31:35] (ℹ️): PHP Max Input Vars : 1000
+[18/Feb/2022:13:31:35] (ℹ️): Max Upload Size : 52428800
+[18/Feb/2022:13:31:35] (ℹ️): Plugins:
+[18/Feb/2022:13:31:35] (ℹ️): [PLUGIN] Templates Patterns Collection : v1.1.20 (ThemeIsle)
